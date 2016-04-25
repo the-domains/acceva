@@ -1,0 +1,28 @@
+name: acceva
+favicon: null
+layout_spectrum: 0.35144995292648673
+typography_spectrum: 0.5254565479699522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9901206814683974
+  lightness: 0.8694068705663085
+  saturation: 0.5548274226021022
+  rhythmicContrast: 0.7308622314594686
+purpose: []
